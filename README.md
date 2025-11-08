@@ -1,3 +1,10 @@
+# The Challenge
+Customer churn (customers leaving the gym) significantly impacts profitability. We needed to identify the key factors driving churn to develop effective retention strategies.
+The dataset includes various customer features, such as demographics, contract details, and gym usage. Our target variable is Churn (where ‘1’ indicates the customer has left, and ‘0’ indicates they are retained).
+<img width="1555" height="56" alt="image" src="https://github.com/user-attachments/assets/a7b34c3f-e920-4b75-a7d2-1c04f8dc8ab7" />
+
+
+
 # **Model Performance Metrics Comparison**
 
 This table summarizes the performance of the three classification models trained to predict customer churn, evaluated on the test dataset.
