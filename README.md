@@ -1,3 +1,4 @@
+#read Me for Final Report
 # The Challenge
 Customer churn (customers leaving the gym) significantly impacts profitability. We needed to identify the key factors driving churn to develop effective retention strategies.
 The dataset includes various customer features, such as demographics, contract details, and gym usage. Our target variable is Churn (where ‘1’ indicates the customer has left, and ‘0’ indicates they are retained).
